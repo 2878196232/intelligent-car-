@@ -1,0 +1,1 @@
+Nineteen intelligent car electromagnetic three-wheel group, complete code, compiler environment is keil5, compiler language is c language. Our code uses two core boards in series, using their own written communication protocol connection, chip stc32g series
